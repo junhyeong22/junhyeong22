@@ -35,5 +35,5 @@
 <br>
 
 ## 📬 Contact Me
-- 📧 Email: [본인 이메일 주소]
-- 📝 Blog/Portfolio: [블로그나 노션 포트폴리오 링크]
+- 📧 Email: jhp5097@gmail.com
+- 📝 Blog/Portfolio:
